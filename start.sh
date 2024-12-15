@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 bot.py
+python3 semester 6 addon .py
