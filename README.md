@@ -1,2 +1,3 @@
 # EIE-CGPA-CALCULATOR
-CREATED TO CALCULATE CGPA EASILY... 
+It helps my collegues to calculate cgpa easily
+With active 200 Users
