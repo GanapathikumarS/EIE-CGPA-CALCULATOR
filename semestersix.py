@@ -90,7 +90,7 @@ async def process_semester_selection(query, user_id, semester):
         'sem4': ['LIC', 'SS', 'TMS', 'EEI', 'DSOOP', 'LIC LAB', 'TMS LAB', 'DSOOP LAB', 'HM'],
         'sem5': ['II', 'MA', 'CS', 'EP', 'VLSI', 'ISD LAB', 'VLSI LAB', 'MA LAB', 'OEC', 'HM'],
         'sem6': ['PC', 'ESD', 'RAA', 'DSP', 'IEM', 'PC LAB', 'VI LAB', 'ESD LAB', 'OEC', 'HM']
-    }
+    }# 9 BCd480//
     subjects = subjects[semester]
     user_states[user_id] = f'{semester}_{subjects[0].lower()}'
     await query.edit_message_text(f'Enter your {subjects[0]} grade:', reply_markup=grade_buttons(subjects[0]))
