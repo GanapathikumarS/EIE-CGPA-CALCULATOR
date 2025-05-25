@@ -4,7 +4,8 @@ As part of adding more features to EIE ASSISTANT BOT (With active 200 Users
 | With active 200 Users
 
 here is the images of my bot
-@sgk7117 - My Telegram id
+
+My Telegram id - @sgk7117
 
 ## This is EIE CGPA CALCULATOR
 
