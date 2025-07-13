@@ -13,8 +13,7 @@ My Telegram id - @sgk7117
 ![photo_2025-05-26_01-48-26](https://github.com/user-attachments/assets/de560a8d-019a-4741-b9e5-0321407b2483)   
 
 ![WhatsApp Image 2025-07-13 at 23 34 49_ff34fffd](https://github.com/user-attachments/assets/0e29a971-751a-4e3b-8bee-26acc417f56c)
-![WhatsApp Image 2025-07-13 at 23 34 47_840cbc09](https://github.com/user-attachments/assets/c35ec9e6-9263-446e-a155-e93316baac1b)
-![WhatsApp Image 2025-07-13 at 23 34 48_db920657](https://github.com/user-attachments/assets/764cfdf9-62ba-4821-a6f6-0d4d6e53619e)
+
 ![WhatsApp Image 2025-07-13 at 23 34 48_131a42af](https://github.com/user-attachments/assets/ecb44cdf-a23c-4d62-bf68-98b9d453350f)
 ![WhatsApp Image 2025-07-13 at 23 34 46_78e64ee5](https://github.com/user-attachments/assets/c2fa479e-746f-433f-8f0e-e72d3cae652a)
 ![WhatsApp Image 2025-07-13 at 23 34 49_29e85d0a](https://github.com/user-attachments/assets/cfc6d5b1-336e-4879-bef9-ddd44a61c44f)
